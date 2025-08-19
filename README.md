@@ -1,8 +1,4 @@
 # Python-Password-Generator
-echo "# Python-Password-Generator" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/RavenTheBird789/Python-Password-Generator.git
-git push -u origin main
+Simple Numerical Password Generator in Python
+Can Be Easily Modified To Include Letters And/Or Special Characters
+Length Of Password Can Be Changed As Well On The 7th Line By Changing The "for i in range()" Function
